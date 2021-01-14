@@ -1,15 +1,7 @@
 $primaryBtn: rgba(57, 134, 170, 0.876);
 
-header {
-    background: lightblue;
-    display: flex;
-    justify-content: center;
+@import "./header";
 
-}
-
-header button {
-    background: $primaryBtn;
-}
 
 .contact button {
     background: $primaryBtn;

@@ -12,6 +12,10 @@ header button {
   background: rgba(57, 134, 170, 0.876);
 }
 
+header button:hover {
+  background: #278f35;
+}
+
 .contact button {
   background: rgba(57, 134, 170, 0.876);
 }
