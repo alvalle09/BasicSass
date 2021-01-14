@@ -9,7 +9,7 @@ header {
 }
 
 header button {
-  background: rgba(57, 134, 170, 0.876);
+  background: rgba(26, 46, 61, 0.212);
 }
 
 header button:hover {
@@ -17,6 +17,10 @@ header button:hover {
 }
 
 .contact button {
-  background: rgba(57, 134, 170, 0.876);
+  background: rgba(26, 46, 61, 0.212);
+}
+
+.contact button:hover {
+  background: blueviolet;
 }
 /*# sourceMappingURL=style.css.map */

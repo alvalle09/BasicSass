@@ -1,9 +1,11 @@
-$primaryBtn: rgba(57, 134, 170, 0.876);
-
+@import "./variables";
 @import "./header";
 
 
 .contact button {
     background: $primaryBtn;
+    &:hover {
+        background: blueviolet;
+    }
 }
 
